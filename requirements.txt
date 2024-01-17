@@ -1,5 +1,5 @@
-# we use the old PM4Py API that was considerably changed in 2.3.0
-pm4py~=2.2.32
+# we use the 2.7.9.2 PM4Py API 
+pm4py~=2.7.9.2
 numpy 
 pandas 
 networkx 
